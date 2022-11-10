@@ -91,7 +91,7 @@ canvas {
         width: 100%;
         color: rgb(225, 12, 168);
         height:100%;
-        font-size: 31px;
+        font-size: 48px;
         font-style: italic;
         display: flex;
         align-items: center;
